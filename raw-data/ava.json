@@ -1,0 +1,72 @@
+[
+   {
+      "Date":"2022-04-06",
+      "Active Account":"12303",
+	  "New Account": "757"
+   },
+   {
+      "Date":"2022-04-07",
+      "Active Account":"12330",
+	  "New Account": "486"
+   },
+   {
+      "Date":"2022-04-08",
+      "Active Account":"11147",
+	  "New Account": "378"
+   },
+   {
+      "Date":"2022-04-09",
+      "Active Account":"10242",
+	  "New Account": "301"
+   },
+   {
+      "Date":"2022-04-10",
+      "Active Account":"8807",
+	  "New Account": "256"
+   },
+   {
+      "Date":"2022-04-11",
+      "Active Account":"7574",
+	  "New Account": "197"
+   },
+   {
+      "Date":"2022-04-12",
+      "Active Account":"6583",
+	  "New Account": "214"
+   },
+   {
+      "Date":"2022-04-13",
+      "Active Account":"6464",
+	  "New Account": "195"
+   },
+   {
+      "Date":"2022-04-14",
+      "Active Account":"7556",
+	  "New Account": "191"
+   },
+   {
+      "Date":"2022-04-15",
+      "Active Account":"6051",
+	  "New Account": "160"
+   },
+   {
+      "Date":"2022-04-16",
+      "Active Account":"5557",
+	  "New Account": "128"
+   },
+   {
+      "Date":"2022-04-17",
+      "Active Account":"5688",
+	  "New Account": "164"
+   },
+   {
+      "Date":"2022-04-18",
+      "Active Account":"5911",
+	  "New Account": "133"
+   },
+   {
+      "Date":"2022-04-19",
+      "Active Account":"5645",
+	  "New Account": "142"
+   }
+]

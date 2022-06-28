@@ -1,0 +1,100 @@
+[
+    {
+        "Day": 1,
+        "Atom Active Account": 61416,
+        "Ava Active Account": 12303,
+        "Dot Active Account": 2193,
+        "Wan Active Account": 1048
+    },
+    {
+        "Day": 2,
+        "Atom Active Account": 48038,
+        "Ava Active Account": 12330,
+        "Dot Active Account": 2099,
+        "Wan Active Account": 1029
+    },
+    {
+        "Day": 3,
+        "Atom Active Account": 35588,
+        "Ava Active Account": 11147,
+        "Dot Active Account": 2764,
+        "Wan Active Account": 994
+    },
+    {
+        "Day": 4,
+        "Atom Active Account": 33202,
+        "Ava Active Account": 10242,
+        "Dot Active Account": 2033,
+        "Wan Active Account": 966
+    },
+    {
+        "Day": 5,
+        "Atom Active Account": 30095,
+        "Ava Active Account": 8807,
+        "Dot Active Account": 2444,
+        "Wan Active Account": 986
+    },
+    {
+        "Day": 6,
+        "Atom Active Account": 31476,
+        "Ava Active Account": 7574,
+        "Dot Active Account": 3898,
+        "Wan Active Account": 968
+    },
+    {
+        "Day": 7,
+        "Atom Active Account": 31298,
+        "Ava Active Account": 6583,
+        "Dot Active Account": 1815,
+        "Wan Active Account": 949
+    },
+    {
+        "Day": 8,
+        "Atom Active Account": 31453,
+        "Ava Active Account": 6464,
+        "Dot Active Account": 1601,
+        "Wan Active Account": 1145
+    },
+    {
+        "Day": 9,
+        "Atom Active Account": 38006,
+        "Ava Active Account": 7556,
+        "Dot Active Account": 1917,
+        "Wan Active Account": 1034
+    },
+    {
+        "Day": 10,
+        "Atom Active Account": 43820,
+        "Ava Active Account": 6051,
+        "Dot Active Account": 1852,
+        "Wan Active Account": 974
+    },
+    {
+        "Day": 11,
+        "Atom Active Account": 34891,
+        "Ava Active Account": 5557,
+        "Dot Active Account": 1959,
+        "Wan Active Account": 954
+    },
+    {
+        "Day": 12,
+        "Atom Active Account": 34795,
+        "Ava Active Account": 5688,
+        "Dot Active Account": 1917,
+        "Wan Active Account": 984
+    },
+    {
+        "Day": 13,
+        "Atom Active Account": 37341,
+        "Ava Active Account": 5911,
+        "Dot Active Account": 1757,
+        "Wan Active Account": 976
+    },
+    {
+        "Day": 14,
+        "Atom Active Account": 40150,
+        "Ava Active Account": 5645,
+        "Dot Active Account": 3006,
+        "Wan Active Account": 1123
+    }
+]
